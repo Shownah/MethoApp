@@ -15,3 +15,7 @@ Ceci est un ajout de texte
 En voici une dernière pour s'entrainer un peu
 
 Ceci est un test pour tester les conflits
+
+Modification pour tester conflits
+
+
